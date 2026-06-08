@@ -136,8 +136,22 @@ The dataset is designed to be interoperable and extensible:
 
 If you use this dataset, please cite the associated paper:
 
-> Aboucaya, William and Jasim, Dastan. *Doctoral Theses in France (1985–2025): A Linked Dataset of PhDs, Academic Networks, and Institutions*, 2026.
+> Aboucaya, W., & Jasim, D. (2026). Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions. Data in Brief, 112947. doi:10.1016/j.dib.2026.112947
 
+BibTex:
+
+```bibtex
+@article{10.1016/j.dib.2026.112947,
+    title = {Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions},
+    journal = {Data in Brief},
+    pages = {112947},
+    year = {2026},
+    issn = {2352-3409},
+    doi = {https://doi.org/10.1016/j.dib.2026.112947},
+    url = {https://www.sciencedirect.com/science/article/pii/S235234092600497X},
+    author = {William Aboucaya and Dastan Jasim},
+}
+```
 
 ---
 
