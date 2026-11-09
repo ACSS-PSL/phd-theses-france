@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: 'Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions'
+message: 'If you use this work, please cite it as below.'
+type: software
+authors:
+  - family-names: Aboucaya
+    given-names: William
+    orcid: 'https://orcid.org/0000-0003-2413-6968'
+  - family-names: Jasim
+    given-names: Dastan
+    orcid: 'https://orcid.org/0000-0002-4158-276X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19453190
+    description: The dataset's DOI
+  - type: doi
+    value: 10.1016/j.dib.2026.112947
+    description: The data paper's DOI
+repository-code: 'https://github.com/WilliamAboucaya/phd-theses-france'
+repository-artifact: 'https://doi.org/10.5281/zenodo.19453190'
+abstract: >-
+  This dataset provides a comprehensive, structured collection of doctoral theses defended in France between
+  1985 and 2025. Each record corresponds to a single defended PhD thesis and includes detailed information on
+  the thesis itself, the individuals involved (author, supervisors, jury members), and associated institutions.
+keywords:
+  - Doctoral theses
+  - Academic networks
+  - Bibliometrics
+  - Gender inference
+  - PhD jury composition
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: 'Doctoral Theses in France (1985-2025): A Linked Dataset of PhDs, Academic Networks, and Institutions'
+  authors:
+    - family-names: Aboucaya
+      given-names: William
+      orcid: 'https://orcid.org/0000-0003-2413-6968'
+    - family-names: Jasim
+      given-names: Dastan
+      orcid: 'https://orcid.org/0000-0002-4158-276X'
+  journal: Data in Brief
+  start: 112947
+  year: 2026
+  doi: 10.1016/j.dib.2026.112947
+  url: 'https://www.sciencedirect.com/science/article/pii/S235234092600497X'
+  issn: 2352-3409
